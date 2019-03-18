@@ -1,0 +1,22 @@
+{
+	"name": "mugla",
+	"version": "1.0.0",
+	"description": "reserved package name",
+	"license": "MIT",
+	"repository": "https://github.com/mertkahyaoglu/mugla",
+	"author": {
+		"name": "Mert Kahyaoğlu",
+		"email": "mertkahyaoglu93@gmail.com",
+		"url": "http://mert-kahyaoglu.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"mugla"
+	],
+	"dependencies": {}
+}
